@@ -63,5 +63,5 @@ http://bit.ly/3LoMIAN
 
 ## 일정
 
-[notion link]
+[notion]
 (Wear%20Weather%20588a9dc820104494b38c5d76942d28ab/%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%201%20%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%BC%20(1)%2021acdb2392a648f9acd6d1fb4abf8813.md)

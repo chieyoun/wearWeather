@@ -1,6 +1,5 @@
 # Wear Weather
 
-//날짜: 2023년 3월 15일 → 2023년 3월 15일
 사용 기술: css, html, js, mysql
 상태: In progress
 

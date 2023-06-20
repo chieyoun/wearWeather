@@ -1,3 +1,5 @@
+# 와! 프로젝트를 받아줄 선생님 증발 ㅋㅋ 일단 대충.. 저장 개념으로 삭제는 안함
+~~
 # Wear Weather
 
 사용 기술: css, html, js, mysql
@@ -62,3 +64,4 @@ http://bit.ly/3LoMIAN
 
 ## 일정
 적는중
+~~

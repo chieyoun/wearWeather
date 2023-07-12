@@ -1,22 +1,55 @@
 <!DOCTYPE html>
 <html lang="ko">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
     <link rel="stylesheet" href="/css/style.css">
-    <link rel="stylesheet" href="/css/motion.css">
+    <!-- <link rel="stylesheet" href="/css/motion.css"> -->
     <title>now weather?</title>
+    <style>
+       
+        header {
+            height: 10vh;
+            color: white;
+            background: black;
+            font-weight: bold;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            position: fixed;
+            top: 0;
+            /* width: 100% */
+            left: 0;
+            right: 0;
+        }
+        .headerIcon{
+            margin-left: auto;
+            font-size: 2rem;
+            
+        }
+    </style>
 </head>
+
 <body>
+    <!-- <header>
+        <a href="./layout.html" class="headerIcon">⚙️</a>
+    </header> -->
     <div class="container">
-        <h1 class="weather">지금 날씨는</h1>
+        <h1 class="weather">지금 날씨는?</h1>
         <div class="fadeInUp">
-            <span class="weatherInfo"></span>
-            <img class="weatherIcon">
+            <span class="weatherInfo"></span><br>
+            <div style="text-align: center;">
+                <img class="weatherIcon">
+
+            </div>
         </div>
-        
+
     </div>
 </body>
 <script src="/js/app.js"></script>
+
 </html>
